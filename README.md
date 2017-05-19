@@ -1,0 +1,2 @@
+# gosrc
+Go Project
